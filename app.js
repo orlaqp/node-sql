@@ -1,3 +1,7 @@
+// REFERENCE
+// https://docs.microsoft.com/en-us/azure/sql-database/sql-database-develop-nodejs-simple
+
+
 var Connection = require('tedious').Connection;  
     var config = {  
         userName: 'username',  
